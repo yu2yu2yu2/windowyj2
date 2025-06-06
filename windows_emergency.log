@@ -1,0 +1,84 @@
+2025-06-06 05:18:22,026 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:12002
+ * Running on http://10.2.38.23:12002
+2025-06-06 05:18:22,026 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-06 08:44:42,687 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:12002
+ * Running on http://10.2.61.144:12002
+2025-06-06 08:44:42,687 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-06 08:44:52,320 - INFO - 127.0.0.1 - - [06/Jun/2025 08:44:52] "GET /health HTTP/1.1" 200 -
+2025-06-06 08:44:56,166 - INFO - 分析请求来自 127.0.0.1
+2025-06-06 08:44:56,168 - INFO - 分析完成: 发现 16 个告警，生成 3 条建议
+2025-06-06 08:44:56,169 - INFO - 127.0.0.1 - - [06/Jun/2025 08:44:56] "POST /analyze HTTP/1.1" 200 -
+2025-06-06 08:45:01,568 - INFO - 127.0.0.1 - - [06/Jun/2025 08:45:01] "POST /stats HTTP/1.1" 200 -
+2025-06-06 08:45:06,425 - INFO - 127.0.0.1 - - [06/Jun/2025 08:45:06] "GET /viewer HTTP/1.1" 200 -
+2025-06-06 11:33:43,458 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:12002
+ * Running on http://10.2.0.137:12002
+2025-06-06 11:33:43,458 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-06 11:33:54,870 - INFO - 127.0.0.1 - - [06/Jun/2025 11:33:54] "GET /viewer HTTP/1.1" 200 -
+2025-06-06 11:34:26,796 - INFO - 127.0.0.1 - - [06/Jun/2025 11:34:26] "GET /viewer HTTP/1.1" 200 -
+2025-06-06 11:35:34,475 - INFO - 分析请求来自 127.0.0.1
+2025-06-06 11:35:34,478 - INFO - 分析完成: 发现 9 个告警，生成 4 条建议
+2025-06-06 11:35:34,478 - INFO - 127.0.0.1 - - [06/Jun/2025 11:35:34] "POST /analyze HTTP/1.1" 200 -
+2025-06-06 11:37:02,018 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:12002
+ * Running on http://10.2.0.137:12002
+2025-06-06 11:37:02,018 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-06 11:37:14,165 - INFO - 127.0.0.1 - - [06/Jun/2025 11:37:14] "GET /viewer HTTP/1.1" 200 -
+2025-06-06 11:39:34,940 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:12002
+ * Running on http://10.2.0.137:12002
+2025-06-06 11:39:34,940 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-06 11:39:44,892 - INFO - 127.0.0.1 - - [06/Jun/2025 11:39:44] "GET /viewer HTTP/1.1" 200 -
+2025-06-06 11:40:42,672 - INFO - 分析请求来自 127.0.0.1
+2025-06-06 11:40:42,675 - INFO - 分析完成: 发现 9 个告警，生成 4 条建议
+2025-06-06 11:40:42,675 - INFO - 127.0.0.1 - - [06/Jun/2025 11:40:42] "POST /analyze HTTP/1.1" 200 -
+2025-06-06 11:42:05,934 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:12002
+ * Running on http://10.2.0.137:12002
+2025-06-06 11:42:05,934 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-06 11:42:16,175 - INFO - 127.0.0.1 - - [06/Jun/2025 11:42:16] "GET /test HTTP/1.1" 200 -
+2025-06-06 11:42:28,085 - INFO - 分析请求来自 127.0.0.1
+2025-06-06 11:42:28,088 - INFO - 分析完成: 发现 9 个告警，生成 4 条建议
+2025-06-06 11:42:28,089 - INFO - 127.0.0.1 - - [06/Jun/2025 11:42:28] "POST /analyze HTTP/1.1" 200 -
+2025-06-06 11:54:12,880 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:12000
+ * Running on http://10.2.0.137:12000
+2025-06-06 11:54:12,880 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-06 11:54:33,358 - INFO - 10.2.34.24 - - [06/Jun/2025 11:54:33] "GET / HTTP/1.1" 200 -
+2025-06-06 11:54:36,067 - INFO - 10.2.34.24 - - [06/Jun/2025 11:54:36] "GET / HTTP/1.1" 200 -
+2025-06-06 11:54:45,762 - INFO - 10.2.34.24 - - [06/Jun/2025 11:54:45] "GET / HTTP/1.1" 200 -
+2025-06-06 11:54:46,216 - INFO - 10.2.34.24 - - [06/Jun/2025 11:54:46] "GET / HTTP/1.1" 200 -
+2025-06-06 11:54:49,769 - INFO - 127.0.0.1 - - [06/Jun/2025 11:54:49] "GET /health HTTP/1.1" 200 -
+2025-06-06 11:54:57,519 - INFO - 10.2.74.140 - - [06/Jun/2025 11:54:57] "GET /viewer HTTP/1.1" 200 -
+2025-06-06 11:55:06,365 - INFO - 分析请求来自 10.2.74.140
+2025-06-06 11:55:06,367 - INFO - 分析完成: 发现 9 个告警，生成 4 条建议
+2025-06-06 11:55:06,368 - INFO - 10.2.74.140 - - [06/Jun/2025 11:55:06] "POST /analyze HTTP/1.1" 200 -
+2025-06-06 11:55:06,405 - INFO - 10.2.74.140 - - [06/Jun/2025 11:55:06] "POST /analyze HTTP/1.1" 200 -
+2025-06-06 11:55:34,148 - INFO - 分析请求来自 127.0.0.1
+2025-06-06 11:55:34,149 - INFO - 分析完成: 发现 9 个告警，生成 4 条建议
+2025-06-06 11:55:34,149 - INFO - 127.0.0.1 - - [06/Jun/2025 11:55:34] "POST /analyze HTTP/1.1" 200 -
+2025-06-06 11:56:05,489 - INFO - 10.2.56.141 - - [06/Jun/2025 11:56:05] "GET / HTTP/1.1" 200 -
+2025-06-06 11:56:11,192 - INFO - 10.2.74.140 - - [06/Jun/2025 11:56:11] "GET /viewer HTTP/1.1" 200 -
+2025-06-06 11:56:14,110 - INFO - 10.2.56.141 - - [06/Jun/2025 11:56:14] "GET / HTTP/1.1" 200 -
+2025-06-06 11:56:23,274 - INFO - 分析请求来自 10.2.74.140
+2025-06-06 11:56:23,275 - INFO - 分析完成: 发现 9 个告警，生成 4 条建议
+2025-06-06 11:56:23,276 - INFO - 10.2.74.140 - - [06/Jun/2025 11:56:23] "POST /analyze HTTP/1.1" 200 -
+2025-06-06 11:56:23,303 - INFO - 10.2.74.140 - - [06/Jun/2025 11:56:23] "POST /analyze HTTP/1.1" 200 -
+2025-06-06 11:56:42,980 - INFO - 10.2.56.141 - - [06/Jun/2025 11:56:42] "GET / HTTP/1.1" 200 -
+2025-06-06 11:56:45,343 - INFO - 10.2.56.141 - - [06/Jun/2025 11:56:45] "GET / HTTP/1.1" 200 -
+2025-06-06 11:56:45,758 - INFO - 10.2.56.141 - - [06/Jun/2025 11:56:45] "GET / HTTP/1.1" 200 -
+2025-06-06 11:57:13,411 - INFO - 10.2.56.141 - - [06/Jun/2025 11:57:13] "GET / HTTP/1.1" 200 -
+2025-06-06 11:57:46,972 - INFO - 10.2.56.141 - - [06/Jun/2025 11:57:46] "GET / HTTP/1.1" 200 -
+2025-06-06 11:58:14,461 - INFO - 10.2.74.140 - - [06/Jun/2025 11:58:14] "GET /viewer HTTP/1.1" 200 -
+2025-06-06 11:58:26,022 - INFO - 分析请求来自 10.2.74.140
+2025-06-06 11:58:26,023 - INFO - 分析完成: 发现 9 个告警，生成 4 条建议
+2025-06-06 11:58:26,024 - INFO - 10.2.74.140 - - [06/Jun/2025 11:58:26] "POST /analyze HTTP/1.1" 200 -
